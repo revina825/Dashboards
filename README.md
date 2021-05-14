@@ -1,1 +1,2 @@
 # Dashboards
+In this study, the analysis of dashboards’ research and application in organizations was performed with a socio-technical emphasis. Based on a systematic review of recent literature (2017-2021), a sample of 31 articles was selected. Various aspects such as domains, goals, design process and dashboard characteristics, technologies, and impacts of dashboards’ application in organizations were considered. 
